@@ -1,7 +1,7 @@
 # C Sharp Metodlar
 
-Bu farklı metod türlerini kullanarak basit düzeyde uygulamalar yaptık.
-Geriye Değer Döndürmeyen Bir void metot.
-Geriye Tamsayı Döndüren Bir metot
-Parametre Alan ve Geriye Değer Döndüren Bir Metot
-Parametre Alan ve Geriye Değer Döndürmeyen bir Metot
+Bu farklÄ± metod tÃ¼rlerini kullanarak basit dÃ¼zeyde uygulamalar yaptÄ±k.
+â€¢ Geriye DeÄŸer DÃ¶ndÃ¼rmeyen Bir void metot.<br>
+â€¢ Geriye TamsayÄ± DÃ¶ndÃ¼ren Bir metot<br>
+â€¢ Parametre Alan ve Geriye DeÄŸer DÃ¶ndÃ¼ren Bir Metot<br>
+â€¢ Parametre Alan ve Geriye DeÄŸer DÃ¶ndÃ¼rmeyen bir Metot<br>
